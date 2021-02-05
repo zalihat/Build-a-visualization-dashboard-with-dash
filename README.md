@@ -96,7 +96,8 @@ app.run_server(debug=True)
 ```
 
 Then run this on your terminal
-```python app.py
+```
+python app.py
 ```
 
 and visit http://127.0.0.1:8050/ in your web browser. You should see an app that looks like this.
